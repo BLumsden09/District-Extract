@@ -1,0 +1,583 @@
+<?xml version="1.0" standalone="yes"?>
+<districts>
+  <districtEntry>
+    <FL_Grade_Code>01</FL_Grade_Code>
+    <FL_Grades>PK</FL_Grades>
+    <SIF_Grades_Offered>PK					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>02</FL_Grade_Code>
+    <FL_Grades>KG</FL_Grades>
+    <SIF_Grades_Offered>KG					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>03</FL_Grade_Code>
+    <FL_Grades>KG-1</FL_Grades>
+    <SIF_Grades_Offered>KG/01					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>04</FL_Grade_Code>
+    <FL_Grades>PK-2</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>05</FL_Grade_Code>
+    <FL_Grades>KG-2</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>06</FL_Grade_Code>
+    <FL_Grades>KG-3</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>07</FL_Grade_Code>
+    <FL_Grades>PK-3</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>08</FL_Grade_Code>
+    <FL_Grades>PK-5</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>09</FL_Grade_Code>
+    <FL_Grades>"KG, 3-5"</FL_Grades>
+    <SIF_Grades_Offered>KG/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>10</FL_Grade_Code>
+    <FL_Grades>"KG, 3-6"</FL_Grades>
+    <SIF_Grades_Offered>KG/03/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>100</FL_Grade_Code>
+    <FL_Grades>K-10</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>101</FL_Grade_Code>
+    <FL_Grades>1-8</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>102</FL_Grade_Code>
+    <FL_Grades>2-8</FL_Grades>
+    <SIF_Grades_Offered>02/03/04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>103</FL_Grade_Code>
+    <FL_Grades>6-11</FL_Grades>
+    <SIF_Grades_Offered>06/07/09/09/10/11					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>104</FL_Grade_Code>
+    <FL_Grades>PK-1</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>105</FL_Grade_Code>
+    <FL_Grades>1-12</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>106</FL_Grade_Code>
+    <FL_Grades>2-7</FL_Grades>
+    <SIF_Grades_Offered>02/03/04/05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>107</FL_Grade_Code>
+    <FL_Grades>4-9</FL_Grades>
+    <SIF_Grades_Offered>04/05/06/07/08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>108</FL_Grade_Code>
+    <FL_Grades>2-12</FL_Grades>
+    <SIF_Grades_Offered>02/03/04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>109</FL_Grade_Code>
+    <FL_Grades>PK-7</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03/04/05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>11</FL_Grade_Code>
+    <FL_Grades>KG-4</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>110</FL_Grade_Code>
+    <FL_Grades>6-Adult</FL_Grades>
+    <SIF_Grades_Offered>06/07/08/09/10/11/12/ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>111</FL_Grade_Code>
+    <FL_Grades>12</FL_Grades>
+    <SIF_Grades_Offered>12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>112</FL_Grade_Code>
+    <FL_Grades>KG-10</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>113</FL_Grade_Code>
+    <FL_Grades>3-10</FL_Grades>
+    <SIF_Grades_Offered>03/04/05/06/07/08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>114</FL_Grade_Code>
+    <FL_Grades>3-12</FL_Grades>
+    <SIF_Grades_Offered>03/04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>115</FL_Grade_Code>
+    <FL_Grades>11-Adult</FL_Grades>
+    <SIF_Grades_Offered>11/12/ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>116</FL_Grade_Code>
+    <FL_Grades>5-11</FL_Grades>
+    <SIF_Grades_Offered>05/06/07/08/09/10/11					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>117</FL_Grade_Code>
+    <FL_Grades>12-Adult</FL_Grades>
+    <SIF_Grades_Offered>12/ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>12</FL_Grade_Code>
+    <FL_Grades>PK-KG</FL_Grades>
+    <SIF_Grades_Offered>PK/KG					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>13</FL_Grade_Code>
+    <FL_Grades>"KG, 4-6"</FL_Grades>
+    <SIF_Grades_Offered>KG/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>14</FL_Grade_Code>
+    <FL_Grades>PK-12</FL_Grades>
+    <SIF_Grades_Offered>PK/01/02/03/04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>15</FL_Grade_Code>
+    <FL_Grades>KG-5</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>16</FL_Grade_Code>
+    <FL_Grades>PK-4</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03/04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>17</FL_Grade_Code>
+    <FL_Grades>"KG, 5-6"</FL_Grades>
+    <SIF_Grades_Offered>KG/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>18</FL_Grade_Code>
+    <FL_Grades>KG-6</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>19</FL_Grade_Code>
+    <FL_Grades>"KG, 6"</FL_Grades>
+    <SIF_Grades_Offered>KG/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>20</FL_Grade_Code>
+    <FL_Grades>"KG, 1, 6"</FL_Grades>
+    <SIF_Grades_Offered>KG/01/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>21</FL_Grade_Code>
+    <FL_Grades>"KG, 6-8"</FL_Grades>
+    <SIF_Grades_Offered>KG/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>22</FL_Grade_Code>
+    <FL_Grades>KG-7</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>23</FL_Grade_Code>
+    <FL_Grades>"KG, 7"</FL_Grades>
+    <SIF_Grades_Offered>KG/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>24</FL_Grade_Code>
+    <FL_Grades>"KG, 7-12"</FL_Grades>
+    <SIF_Grades_Offered>KG/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>25</FL_Grade_Code>
+    <FL_Grades>KG-8</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>26</FL_Grade_Code>
+    <FL_Grades>KG-9</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>27</FL_Grade_Code>
+    <FL_Grades>PK-8</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03/04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>28</FL_Grade_Code>
+    <FL_Grades>KG-12</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>29</FL_Grade_Code>
+    <FL_Grades>PK-9</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/01/02/03/04/05/06/07/08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>30</FL_Grade_Code>
+    <FL_Grades>2</FL_Grades>
+    <SIF_Grades_Offered>02					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>31</FL_Grade_Code>
+    <FL_Grades>1-2</FL_Grades>
+    <SIF_Grades_Offered>01/02					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>32</FL_Grade_Code>
+    <FL_Grades>1-3</FL_Grades>
+    <SIF_Grades_Offered>01/02/03					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>33</FL_Grade_Code>
+    <FL_Grades>1-4</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>34</FL_Grade_Code>
+    <FL_Grades>1-5</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>35</FL_Grade_Code>
+    <FL_Grades>1-6</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>36</FL_Grade_Code>
+    <FL_Grades>"PK, 3-5"</FL_Grades>
+    <SIF_Grades_Offered>PK/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>37</FL_Grade_Code>
+    <FL_Grades>"PK, 9-12"</FL_Grades>
+    <SIF_Grades_Offered>PK/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>38</FL_Grade_Code>
+    <FL_Grades>"PK-KG, 3-5"</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>39</FL_Grade_Code>
+    <FL_Grades>"PK-KG, 5-6"</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>40</FL_Grade_Code>
+    <FL_Grades>1-7</FL_Grades>
+    <SIF_Grades_Offered>01/02/03/04/05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>41</FL_Grade_Code>
+    <FL_Grades>2-3</FL_Grades>
+    <SIF_Grades_Offered>02/03					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>42</FL_Grade_Code>
+    <FL_Grades>2-4</FL_Grades>
+    <SIF_Grades_Offered>02/03/04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>43</FL_Grade_Code>
+    <FL_Grades>3-5</FL_Grades>
+    <SIF_Grades_Offered>03/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>44</FL_Grade_Code>
+    <FL_Grades>3-6</FL_Grades>
+    <SIF_Grades_Offered>03/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>45</FL_Grade_Code>
+    <FL_Grades>3-7</FL_Grades>
+    <SIF_Grades_Offered>03/04/05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>46</FL_Grade_Code>
+    <FL_Grades>3-4</FL_Grades>
+    <SIF_Grades_Offered>03/04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>47</FL_Grade_Code>
+    <FL_Grades>KG-11</FL_Grades>
+    <SIF_Grades_Offered>KG/01/02/03/04/05/06/07/08/09/10/11					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>48</FL_Grade_Code>
+    <FL_Grades>"PK-KG, 4-6"</FL_Grades>
+    <SIF_Grades_Offered>PK/KG/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>49</FL_Grade_Code>
+    <FL_Grades>"PK, 4-5"</FL_Grades>
+    <SIF_Grades_Offered>PK/04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>50</FL_Grade_Code>
+    <FL_Grades>4</FL_Grades>
+    <SIF_Grades_Offered>04					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>51</FL_Grade_Code>
+    <FL_Grades>4-5</FL_Grades>
+    <SIF_Grades_Offered>04/05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>52</FL_Grade_Code>
+    <FL_Grades>4-6</FL_Grades>
+    <SIF_Grades_Offered>04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>53</FL_Grade_Code>
+    <FL_Grades>4-8</FL_Grades>
+    <SIF_Grades_Offered>04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>54</FL_Grade_Code>
+    <FL_Grades>6</FL_Grades>
+    <SIF_Grades_Offered>06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>55</FL_Grade_Code>
+    <FL_Grades>"PK, 6-12"</FL_Grades>
+    <SIF_Grades_Offered>PK/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>57</FL_Grade_Code>
+    <FL_Grades>3-8</FL_Grades>
+    <SIF_Grades_Offered>03/04/05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>58</FL_Grade_Code>
+    <FL_Grades>5</FL_Grades>
+    <SIF_Grades_Offered>05					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>59</FL_Grade_Code>
+    <FL_Grades>5-6</FL_Grades>
+    <SIF_Grades_Offered>05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>60</FL_Grade_Code>
+    <FL_Grades>5-7</FL_Grades>
+    <SIF_Grades_Offered>05/06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>61</FL_Grade_Code>
+    <FL_Grades>5-8</FL_Grades>
+    <SIF_Grades_Offered>05/06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>62</FL_Grade_Code>
+    <FL_Grades>7-11</FL_Grades>
+    <SIF_Grades_Offered>07/08/09/10/11					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>63</FL_Grade_Code>
+    <FL_Grades>5-12</FL_Grades>
+    <SIF_Grades_Offered>05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>64</FL_Grade_Code>
+    <FL_Grades>"7-9, 12"</FL_Grades>
+    <SIF_Grades_Offered>07/08/09/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>65</FL_Grade_Code>
+    <FL_Grades>NOT USED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>66</FL_Grade_Code>
+    <FL_Grades>6-7</FL_Grades>
+    <SIF_Grades_Offered>06/07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>67</FL_Grade_Code>
+    <FL_Grades>6-8</FL_Grades>
+    <SIF_Grades_Offered>06/07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>68</FL_Grade_Code>
+    <FL_Grades>6-9</FL_Grades>
+    <SIF_Grades_Offered>06/07/08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>69</FL_Grade_Code>
+    <FL_Grades>6-12</FL_Grades>
+    <SIF_Grades_Offered>06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>70</FL_Grade_Code>
+    <FL_Grades>8-10</FL_Grades>
+    <SIF_Grades_Offered>08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>71</FL_Grade_Code>
+    <FL_Grades>2-6</FL_Grades>
+    <SIF_Grades_Offered>02/03/04/05/06					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>72</FL_Grade_Code>
+    <FL_Grades>7</FL_Grades>
+    <SIF_Grades_Offered>07					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>73</FL_Grade_Code>
+    <FL_Grades>7-8</FL_Grades>
+    <SIF_Grades_Offered>07/08					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>74</FL_Grade_Code>
+    <FL_Grades>7-9</FL_Grades>
+    <SIF_Grades_Offered>07/08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>75</FL_Grade_Code>
+    <FL_Grades>7-12</FL_Grades>
+    <SIF_Grades_Offered>07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>76</FL_Grade_Code>
+    <FL_Grades>6-10</FL_Grades>
+    <SIF_Grades_Offered>06/07/08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>77</FL_Grade_Code>
+    <FL_Grades>4-12</FL_Grades>
+    <SIF_Grades_Offered>04/05/06/07/08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>78</FL_Grade_Code>
+    <FL_Grades>7-10</FL_Grades>
+    <SIF_Grades_Offered>07/08/09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>79</FL_Grade_Code>
+    <FL_Grades>8-9</FL_Grades>
+    <SIF_Grades_Offered>08/09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>80</FL_Grade_Code>
+    <FL_Grades>8-12</FL_Grades>
+    <SIF_Grades_Offered>08/09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>81</FL_Grade_Code>
+    <FL_Grades>7-Adult</FL_Grades>
+    <SIF_Grades_Offered>07/08/09/10/11/12/ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>82</FL_Grade_Code>
+    <FL_Grades>9</FL_Grades>
+    <SIF_Grades_Offered>09					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>83</FL_Grade_Code>
+    <FL_Grades>9-10</FL_Grades>
+    <SIF_Grades_Offered>09/10					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>84</FL_Grade_Code>
+    <FL_Grades>9-11</FL_Grades>
+    <SIF_Grades_Offered>09/10/11					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>85</FL_Grade_Code>
+    <FL_Grades>9-12</FL_Grades>
+    <SIF_Grades_Offered>09/10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>86</FL_Grade_Code>
+    <FL_Grades>10-12</FL_Grades>
+    <SIF_Grades_Offered>10/11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>87</FL_Grade_Code>
+    <FL_Grades>11-12</FL_Grades>
+    <SIF_Grades_Offered>11/12					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>88</FL_Grade_Code>
+    <FL_Grades>9-Adult</FL_Grades>
+    <SIF_Grades_Offered>09/10/11/12/ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>89</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>90</FL_Grade_Code>
+    <FL_Grades>Adult</FL_Grades>
+    <SIF_Grades_Offered>ASE					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>91</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>92</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>93</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>94</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>95</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>96</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>97</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>98</FL_Grade_Code>
+    <FL_Grades>RETIRED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+  <districtEntry>
+    <FL_Grade_Code>99</FL_Grade_Code>
+    <FL_Grades>UNASSIGNED</FL_Grades>
+    <SIF_Grades_Offered>ERROR!!					</SIF_Grades_Offered>
+  </districtEntry>
+</districts>

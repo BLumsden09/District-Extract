@@ -1,0 +1,18 @@
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.exe.config
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.exe
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.pdb
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.csprojResolveAssemblyReference.cache
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.exe
+c:\users\bpl5\documents\visual studio 2013\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.pdb
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.exe.config
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.exe
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.pdb
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.exe
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.pdb
+C:\Users\bpl5\Documents\Visual Studio Files\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SQL Connectivity\SQL Connectivity\bin\Debug\SQL Connectivity.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\SQL Connectivity\SQL Connectivity\obj\Debug\SQL Connectivity.pdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\district_extract\district_extract\bin\Debug\district_extract.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\district_extract\district_extract\obj\Debug\district_extract.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\district_extract\district_extract\obj\Debug\district_extract.pdb

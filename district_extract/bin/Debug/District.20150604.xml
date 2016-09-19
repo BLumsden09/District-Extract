@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<leaCEDS>
+  <district>
+    <leaID>01</leaID>
+    <name>Alachua</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>620 E University Ave</streetLine1>
+    <city>Gainesville</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>326015448</postalCode>
+    <county>Alachua</county>
+    <NCESID_district>1200030</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>02</leaID>
+    <name>Baker</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>270 South Blvd E</streetLine1>
+    <city>MacClenny</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320632538</postalCode>
+    <county>Baker</county>
+    <NCESID_district>1200060</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>03</leaID>
+    <name>Bay</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1311 Balboa Ave</streetLine1>
+    <city>Panama City</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324012080</postalCode>
+    <county>Bay</county>
+    <NCESID_district>1200090</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>04</leaID>
+    <name>Bradford</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>501 W Washington St</streetLine1>
+    <city>Starke</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320912525</postalCode>
+    <county>Bradford</county>
+    <NCESID_district>1200120</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>05</leaID>
+    <name>Brevard</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2700 Judge Fran Jamieson Way</streetLine1>
+    <city>Viera</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>329406601</postalCode>
+    <county>Brevard</county>
+    <NCESID_district>1200150</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>06</leaID>
+    <name>Broward</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>600 SE 3rd Ave Fl 10</streetLine1>
+    <city>Fort Lauderdale</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>333013125</postalCode>
+    <county>Broward</county>
+    <NCESID_district>1200180</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>07</leaID>
+    <name>Calhoun</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>20859 Central Ave E Ste G20</streetLine1>
+    <city>Blountstown</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324246202</postalCode>
+    <county>Calhoun</county>
+    <NCESID_district>1200210</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>08</leaID>
+    <name>Charlotte</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1445 Education Way</streetLine1>
+    <city>Port Charlotte</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>339481052</postalCode>
+    <county>Charlotte</county>
+    <NCESID_district>1200240</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>09</leaID>
+    <name>Citrus</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1007 W Main St</streetLine1>
+    <city>Inverness</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>344504625</postalCode>
+    <county>Citrus</county>
+    <NCESID_district>1200270</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>10</leaID>
+    <name>Clay</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>900 Walnut St</streetLine1>
+    <city>Green Cove Springs</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320433129</postalCode>
+    <county>Clay</county>
+    <NCESID_district>1200300</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>11</leaID>
+    <name>Collier</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>5775 Osceola Trail</streetLine1>
+    <city>Naples</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>341090919</postalCode>
+    <county>Collier</county>
+    <NCESID_district>1200330</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>12</leaID>
+    <name>Columbia</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>372 W Duval St</streetLine1>
+    <city>Lake City</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320553990</postalCode>
+    <county>Columbia</county>
+    <NCESID_district>1200360</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>13</leaID>
+    <name>Dade</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1450 NE 2nd Ave # 912</streetLine1>
+    <city>Miami</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>331321308</postalCode>
+    <county>Miami-Dade</county>
+    <NCESID_district>1200390</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>14</leaID>
+    <name>Desoto</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 2000</streetLine1>
+    <city>Arcadia</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>342652000</postalCode>
+    <county>Desoto</county>
+    <NCESID_district>1200420</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>15</leaID>
+    <name>Dixie</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>16077 NE 19 Highway</streetLine1>
+    <city>Cross City</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>326283557</postalCode>
+    <county>Dixie</county>
+    <NCESID_district>1200450</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>16</leaID>
+    <name>Duval</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1701 Prudential Dr</streetLine1>
+    <city>Jacksonville</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>322078152</postalCode>
+    <county>Duval</county>
+    <NCESID_district>1200480</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>17</leaID>
+    <name>Escambia</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>75 N Pace Blvd</streetLine1>
+    <city>Pensacola</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>325057965</postalCode>
+    <county>Escambia</county>
+    <NCESID_district>1200510</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>18</leaID>
+    <name>Flagler</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 755</streetLine1>
+    <city>Bunnell</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>321100755</postalCode>
+    <county>Flagler</county>
+    <NCESID_district>1200540</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>19</leaID>
+    <name>Franklin</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>85 School Rd Ste 1</streetLine1>
+    <city>Eastpoint</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323283465</postalCode>
+    <county>Franklin</county>
+    <NCESID_district>1200570</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>20</leaID>
+    <name>Gadsden</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>35 Martin Luther King Jr Blvd</streetLine1>
+    <city>Quincy</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323514411</postalCode>
+    <county>Gadsden</county>
+    <NCESID_district>1200600</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>21</leaID>
+    <name>Gilchrist</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>310 NW 11th Ave</streetLine1>
+    <city>Trenton</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>326933804</postalCode>
+    <county>Gilchrist</county>
+    <NCESID_district>1200630</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>22</leaID>
+    <name>Glades</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 459</streetLine1>
+    <city>Moore Haven</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>334710459</postalCode>
+    <county>Glades</county>
+    <NCESID_district>1200660</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>23</leaID>
+    <name>Gulf</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>150 Middle School Rd</streetLine1>
+    <city>Port St Joe</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324562261</postalCode>
+    <county>Gulf</county>
+    <NCESID_district>1200690</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>24</leaID>
+    <name>Hamilton</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>4280 SW County Road 152</streetLine1>
+    <city>Jasper</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320523774</postalCode>
+    <county>Hamilton</county>
+    <NCESID_district>1200720</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>25</leaID>
+    <name>Hardee</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 1678</streetLine1>
+    <city>Wauchula</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>338731678</postalCode>
+    <county>Hardee</county>
+    <NCESID_district>1200750</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>26</leaID>
+    <name>Hendry</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 1980</streetLine1>
+    <city>Labelle</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>339751980</postalCode>
+    <county>Hendry</county>
+    <NCESID_district>1200780</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>27</leaID>
+    <name>Hernando</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>919 N Broad St</streetLine1>
+    <city>Brooksville</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>346012397</postalCode>
+    <county>Hernando</county>
+    <NCESID_district>1200810</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>28</leaID>
+    <name>Highlands</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>426 School St</streetLine1>
+    <city>Sebring</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>338704048</postalCode>
+    <county>Highlands</county>
+    <NCESID_district>1200840</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>29</leaID>
+    <name>Hillsborough</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 3408</streetLine1>
+    <city>Tampa</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>336013408</postalCode>
+    <county>Hillsborough</county>
+    <NCESID_district>1200870</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>30</leaID>
+    <name>Holmes</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>701 E Pennsylvania Ave</streetLine1>
+    <city>Bonifay</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324252349</postalCode>
+    <county>Holmes</county>
+    <NCESID_district>1200900</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>31</leaID>
+    <name>Indian River</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1990 25th St</streetLine1>
+    <city>Vero Beach</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>329603367</postalCode>
+    <county>Indian River</county>
+    <NCESID_district>1200930</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>32</leaID>
+    <name>Jackson</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 5958</streetLine1>
+    <city>Marianna</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324475958</postalCode>
+    <county>Jackson</county>
+    <NCESID_district>1200960</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>33</leaID>
+    <name>Jefferson</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>575 S Water St</streetLine1>
+    <city>Monticello</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323441373</postalCode>
+    <county>Jefferson</county>
+    <NCESID_district>1200990</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>34</leaID>
+    <name>Lafayette</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>363 NE Crawford St</streetLine1>
+    <city>Mayo</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320665612</postalCode>
+    <county>Lafayette</county>
+    <NCESID_district>1201020</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>35</leaID>
+    <name>Lake</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>201 W Burleigh Blvd</streetLine1>
+    <city>Tavares</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>327782407</postalCode>
+    <county>Lake</county>
+    <NCESID_district>1201050</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>36</leaID>
+    <name>Lee</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2855 Colonial Blvd</streetLine1>
+    <city>Fort Myers</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>339661012</postalCode>
+    <county>Lee</county>
+    <NCESID_district>1201080</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>37</leaID>
+    <name>Leon</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2757 W Pensacola St</streetLine1>
+    <city>Tallahassee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323042907</postalCode>
+    <county>Leon</county>
+    <NCESID_district>1201110</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>38</leaID>
+    <name>Levy</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>480 Marshburn Dr</streetLine1>
+    <city>Bronson</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>326216221</postalCode>
+    <county>Levy</county>
+    <NCESID_district>1201140</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>39</leaID>
+    <name>Liberty</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 429</streetLine1>
+    <city>Bristol</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323210429</postalCode>
+    <county>Liberty</county>
+    <NCESID_district>1201170</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>40</leaID>
+    <name>Madison</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>210 NE Duval Ave</streetLine1>
+    <city>Madison</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323402541</postalCode>
+    <county>Madison</county>
+    <NCESID_district>1201200</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>41</leaID>
+    <name>Manatee</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 9069</streetLine1>
+    <city>Bradenton</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>342069069</postalCode>
+    <county>Manatee</county>
+    <NCESID_district>1201230</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>42</leaID>
+    <name>Marion</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 670</streetLine1>
+    <city>Ocala</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>344780670</postalCode>
+    <county>Marion</county>
+    <NCESID_district>1201260</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>43</leaID>
+    <name>Martin</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>500 SE Ocean Blvd</streetLine1>
+    <city>Stuart</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>349942572</postalCode>
+    <county>Martin</county>
+    <NCESID_district>1201290</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>44</leaID>
+    <name>Monroe</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>241 Trumbo Rd</streetLine1>
+    <city>Key West</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>330406684</postalCode>
+    <county>Monroe</county>
+    <NCESID_district>1201320</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>45</leaID>
+    <name>Nassau</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1201 Atlantic Ave</streetLine1>
+    <city>Fernandina Beach</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320343403</postalCode>
+    <county>Nassau</county>
+    <NCESID_district>1201350</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>46</leaID>
+    <name>Okaloosa</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>120 Lowery Pl SE</streetLine1>
+    <city>Fort Walton Beach</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>325485547</postalCode>
+    <county>Okaloosa</county>
+    <NCESID_district>1201380</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>47</leaID>
+    <name>Okeechobee</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>700 Sw 2nd Ave</streetLine1>
+    <city>Okeechobee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>349745117</postalCode>
+    <county>Okeechobee</county>
+    <NCESID_district>1201410</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>48</leaID>
+    <name>Orange</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 271</streetLine1>
+    <city>Orlando</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>328020271</postalCode>
+    <county>Orange</county>
+    <NCESID_district>1201440</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>49</leaID>
+    <name>Osceola</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>817 Bill Beck Blvd</streetLine1>
+    <city>Kissimmee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>347444492</postalCode>
+    <county>Osceola</county>
+    <NCESID_district>1201470</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>50</leaID>
+    <name>Palm Beach</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>3300 Forest Hill Blvd # C-316</streetLine1>
+    <city>West Palm Beach</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>334065869</postalCode>
+    <county>Palm Beach</county>
+    <NCESID_district>1201500</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>51</leaID>
+    <name>Pasco</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>7227 Land O Lakes Blvd</streetLine1>
+    <city>Land O Lakes</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>346382826</postalCode>
+    <county>Pasco</county>
+    <NCESID_district>1201530</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>52</leaID>
+    <name>Pinellas</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>301 4Th St SW</streetLine1>
+    <city>Largo</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>337703536</postalCode>
+    <county>Pinellas</county>
+    <NCESID_district>1201560</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>53</leaID>
+    <name>Polk</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 391</streetLine1>
+    <city>Bartow</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>338310391</postalCode>
+    <county>Polk</county>
+    <NCESID_district>1201590</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>54</leaID>
+    <name>Putnam</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>200 S 7Th St</streetLine1>
+    <city>Palatka</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>321774612</postalCode>
+    <county>Putnam</county>
+    <NCESID_district>1201620</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>55</leaID>
+    <name>St. Johns</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>40 Orange St</streetLine1>
+    <city>St Augustine</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320843633</postalCode>
+    <county>St. Johns</county>
+    <NCESID_district>1201740</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>56</leaID>
+    <name>St. Lucie</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>4204 Okeechobee Rd</streetLine1>
+    <city>Fort Pierce</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>349475414</postalCode>
+    <county>St. Lucie</county>
+    <NCESID_district>1201770</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>57</leaID>
+    <name>Santa Rosa</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>5086 Canal St</streetLine1>
+    <city>Milton</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>325702257</postalCode>
+    <county>Santa Rosa</county>
+    <NCESID_district>1201650</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>58</leaID>
+    <name>Sarasota</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>1960 Landings Blvd</streetLine1>
+    <city>Sarasota</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>342313300</postalCode>
+    <county>Sarasota</county>
+    <NCESID_district>1201680</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>59</leaID>
+    <name>Seminole</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>400 E Lake Mary Blvd</streetLine1>
+    <city>Sanford</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>327737125</postalCode>
+    <county>Seminole</county>
+    <NCESID_district>1201710</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>60</leaID>
+    <name>Sumter</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2680 WC 476</streetLine1>
+    <city>Bushnell</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>335133574</postalCode>
+    <county>Sumter</county>
+    <NCESID_district>1201800</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>61</leaID>
+    <name>Suwannee</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>702 2nd St NW</streetLine1>
+    <city>Live Oak</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320641608</postalCode>
+    <county>Suwannee</county>
+    <NCESID_district>1201830</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>62</leaID>
+    <name>Taylor</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>318 N Clark St</streetLine1>
+    <city>Perry</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323472930</postalCode>
+    <county>Taylor</county>
+    <NCESID_district>1201860</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>63</leaID>
+    <name>Union</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>55 SW 6th St</streetLine1>
+    <city>Lake Butler</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320542519</postalCode>
+    <county>Union</county>
+    <NCESID_district>1201890</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>64</leaID>
+    <name>Volusia</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 2118</streetLine1>
+    <city>Deland</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>327212118</postalCode>
+    <county>Volusia</county>
+    <NCESID_district>1201920</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>65</leaID>
+    <name>Wakulla</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 100</streetLine1>
+    <city>Crawfordville</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323260100</postalCode>
+    <county>Wakulla</county>
+    <NCESID_district>1201950</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>66</leaID>
+    <name>Walton</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>145 S Park St Ste 2</streetLine1>
+    <city>Defuniak Springs</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324352909</postalCode>
+    <county>Walton</county>
+    <NCESID_district>1201980</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>67</leaID>
+    <name>Washington</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>652 3rd St</streetLine1>
+    <city>Chipley</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324281442</postalCode>
+    <county>Washington</county>
+    <NCESID_district>1202010</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>68</leaID>
+    <name>Deaf/Blind</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>207 San Marco Ave</streetLine1>
+    <city>St Augustine</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>320842762</postalCode>
+    <county>St. Johns</county>
+    <NCESID_district>1202016</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>69</leaID>
+    <name>Wash Special</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>652 3Rd St</streetLine1>
+    <city>Chipley</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>324281442</postalCode>
+    <county>Washington</county>
+    <NCESID_district>1202011</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>71</leaID>
+    <name>FL Virtual</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2145 Metrocenter Blvd Ste 200</streetLine1>
+    <city>Orlando</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>328357642</postalCode>
+    <county>Orange</county>
+    <NCESID_district>1200002</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>72</leaID>
+    <name>FAU Lab School</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>777 Glades Rd Bldg 47</streetLine1>
+    <city>Boca Raton</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>334316424</postalCode>
+    <county>Palm Beach</county>
+    <NCESID_district>1202012</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>73</leaID>
+    <name>FSU Lab School</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>3000 School House Rd</streetLine1>
+    <city>Tallahassee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323117855</postalCode>
+    <county>Leon</county>
+    <NCESID_district>1202013</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>74</leaID>
+    <name>FAMU Lab School</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>400 W Orange Ave</streetLine1>
+    <city>Tallahassee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323056233</postalCode>
+    <county>Leon</county>
+    <NCESID_district>1202014</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>75</leaID>
+    <name>UF Lab School</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>PO Box 118530</streetLine1>
+    <city>Gainesville</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>326118530</postalCode>
+    <county>Alachua</county>
+    <NCESID_district>1202015</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+  <district>
+    <leaID>76</leaID>
+    <name>CESA</name>
+    <organizationType>LEA</organizationType>
+    <streetLine1>2601 Blair Stone Road</streetLine1>
+    <city>Tallahassee</city>
+    <stateProvince>FL</stateProvince>
+    <postalCode>323992500</postalCode>
+    <county>Leon</county>
+    <NCESID_district>1200005</NCESID_district>
+    <date_created>2015-06-01T20:38:58.9730000</date_created>
+    <date_updated>2015-06-01T20:38:58.9730000</date_updated>
+  </district>
+</leaCEDS>

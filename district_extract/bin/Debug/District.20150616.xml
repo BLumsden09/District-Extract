@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<leaCDS xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/K12/K12_leaCEDS.html#LinkD">
+  <districtEntry>
+    <identification>
+      <leaID>01</leaID>
+      <name>Alachua</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1>620 E University Ave</line1>
+          <line2 />
+        </street>
+        <city>Gainesville</city>
+        <stateProvince>FL</stateProvince>
+        <postalCode>326015448</postalCode>
+        <county>Alachua</county>
+      </address>
+    </addressList>
+    <district>
+      <reference>
+        <NCESID>1200030</NCESID>
+      </reference>
+    </district>
+  </districtEntry>
+</leaCDS>

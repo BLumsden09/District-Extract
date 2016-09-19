@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<leaCEDS xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/K12/K12_leaCEDS.html#LinkD">
+  <district>
+    <identification>
+      <leaID>P00001</leaID>
+      <name>Alachua County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Alachua</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210001</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00002</leaID>
+      <name>Baker County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Baker</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210002</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00003</leaID>
+      <name>Bay County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Bay</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210003</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00004</leaID>
+      <name>Bradford County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Bradford</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210004</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00005</leaID>
+      <name>Brevard County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Brevard</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210005</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00006</leaID>
+      <name>Broward County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Broward</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210006</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00007</leaID>
+      <name>Calhoun County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Calhoun</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210007</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00008</leaID>
+      <name>Charlotte County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Charlotte</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210008</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00009</leaID>
+      <name>Citrus County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Citrus</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210009</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00010</leaID>
+      <name>Clay County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Clay</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210010</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00011</leaID>
+      <name>Collier County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Collier</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210011</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00012</leaID>
+      <name>Columbia County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Columbia</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210012</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00013</leaID>
+      <name>Dade County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Miami-Dade</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210013</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00014</leaID>
+      <name>Desoto County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Desoto</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210014</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00015</leaID>
+      <name>Dixie County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Dixie</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210015</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00016</leaID>
+      <name>Duval County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Duval</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210016</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00017</leaID>
+      <name>Escambia County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Escambia</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210017</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00018</leaID>
+      <name>Flagler County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Flagler</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210018</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00019</leaID>
+      <name>Franklin County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Franklin</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210019</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00020</leaID>
+      <name>Gadsden County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Gadsden</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210020</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00021</leaID>
+      <name>Gilchrist County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Gilchrist</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210021</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00022</leaID>
+      <name>Glades County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Glades</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210022</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00023</leaID>
+      <name>Gulf County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Gulf</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210023</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00024</leaID>
+      <name>Hamilton County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Hamilton</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210024</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00025</leaID>
+      <name>Hardee County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Hardee</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210025</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00026</leaID>
+      <name>Hendry County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Hendry</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210026</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00027</leaID>
+      <name>Hernando County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Hernando</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210027</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00028</leaID>
+      <name>Highlands County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Highlands</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210028</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00029</leaID>
+      <name>Hillsborough County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Hillsborough</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210029</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00030</leaID>
+      <name>Holmes County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Holmes</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210030</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00031</leaID>
+      <name>Indian River County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Indian River</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210031</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00032</leaID>
+      <name>Jackson County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Jackson</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210032</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00033</leaID>
+      <name>Jefferson County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Jefferson</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210033</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00034</leaID>
+      <name>Lafayette County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Lafayette</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210034</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00035</leaID>
+      <name>Lake County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Lake</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210035</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00036</leaID>
+      <name>Lee County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Lee</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210036</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00037</leaID>
+      <name>Leon County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Leon</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210037</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00038</leaID>
+      <name>Levy County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Levy</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210038</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00039</leaID>
+      <name>Liberty County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Liberty</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210039</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00040</leaID>
+      <name>Madison County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Madison</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210040</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00041</leaID>
+      <name>Manatee County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Manatee</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210041</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00042</leaID>
+      <name>Marion County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Marion</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210042</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00043</leaID>
+      <name>Martin County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Martin</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210043</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00044</leaID>
+      <name>Monroe County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Monroe</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210044</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00045</leaID>
+      <name>Nassau County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Nassau</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210045</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00046</leaID>
+      <name>Okaloosa County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Okaloosa</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210046</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00047</leaID>
+      <name>Okeechobee County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Okeechobee</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210047</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00048</leaID>
+      <name>Orange County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Orange</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210048</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00049</leaID>
+      <name>Osceola County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Osceola</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210049</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00050</leaID>
+      <name>Palm Beach County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Palm Beach</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210050</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00051</leaID>
+      <name>Pasco County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Pasco</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210051</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00052</leaID>
+      <name>Pinellas County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Pinellas</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210052</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00053</leaID>
+      <name>Polk County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Polk</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210053</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00054</leaID>
+      <name>Putnam County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Putnam</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210054</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00055</leaID>
+      <name>St. Johns County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>St. Johns</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210055</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00056</leaID>
+      <name>St. Lucie County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>St. Lucie</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210056</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00057</leaID>
+      <name>Santa Rosa County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Santa Rosa</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210057</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00058</leaID>
+      <name>Sarasota County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Sarasota</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210058</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00059</leaID>
+      <name>Seminole County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Seminole</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210059</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00060</leaID>
+      <name>Sumter County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Sumter</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210060</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00061</leaID>
+      <name>Suwannee County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Suwannee</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210061</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00062</leaID>
+      <name>Taylor County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Taylor</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210062</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00063</leaID>
+      <name>Union County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Union</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210063</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00064</leaID>
+      <name>Volusia County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Volusia</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210064</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00065</leaID>
+      <name>Wakulla County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Wakulla</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210065</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00066</leaID>
+      <name>Walton County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Walton</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210066</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+  <district>
+    <identification>
+      <leaID>P00067</leaID>
+      <name>Washington County Private Schools</name>
+      <organizationType>LEA</organizationType>
+    </identification>
+    <addressList>
+      <address>
+        <street>
+          <line1></line1>
+        </street>
+        <city />
+        <stateProvince>FL</stateProvince>
+        <postalCode />
+        <county>Washington</county>
+      </address>
+    </addressList>
+    <reference>
+      <NCESID>1210067</NCESID>
+    </reference>
+    <delete>0</delete>
+  </district>
+</leaCEDS>
